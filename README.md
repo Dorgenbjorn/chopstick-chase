@@ -1,10 +1,3 @@
-# DiningPhilosophers
-A novel solution for the dining philosophers problem.
-
-
-git@github.com:Dorgenbjorn/chopstick-chase.git
-
-
 # Chopstick Chase
 A novel, fair, and maximally concurrent solution to the Dining Philosophers problem (n=5 or any odd n)
 
